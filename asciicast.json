@@ -1,0 +1,814 @@
+{
+  "version": 1,
+  "command": null,
+  "width": 197,
+  "height": 59,
+  "stdout": [
+    [
+      0.036577,
+      "\u001b]0;me@boxer: ~\u0007me@boxer:~$ "
+    ],
+    [
+      1.224185,
+      "n"
+    ],
+    [
+      0.303612,
+      "p"
+    ],
+    [
+      0.320544,
+      "m"
+    ],
+    [
+      0.335984,
+      " "
+    ],
+    [
+      0.815917,
+      "i"
+    ],
+    [
+      0.192147,
+      "n"
+    ],
+    [
+      0.128101,
+      "s"
+    ],
+    [
+      0.175823,
+      "t"
+    ],
+    [
+      0.191901,
+      "a"
+    ],
+    [
+      0.288051,
+      "l"
+    ],
+    [
+      0.144006,
+      "l"
+    ],
+    [
+      0.239931,
+      " "
+    ],
+    [
+      0.336279,
+      "-"
+    ],
+    [
+      0.239495,
+      "g"
+    ],
+    [
+      0.176146,
+      " "
+    ],
+    [
+      0.319914,
+      "i"
+    ],
+    [
+      0.16018,
+      "n"
+    ],
+    [
+      0.112103,
+      "s"
+    ],
+    [
+      0.143701,
+      "t"
+    ],
+    [
+      0.127934,
+      "a"
+    ],
+    [
+      0.352362,
+      "l"
+    ],
+    [
+      0.127903,
+      "l"
+    ],
+    [
+      0.495765,
+      "-"
+    ],
+    [
+      1.200045,
+      "r"
+    ],
+    [
+      0.144148,
+      "e"
+    ],
+    [
+      0.14398,
+      "t"
+    ],
+    [
+      0.14388,
+      "h"
+    ],
+    [
+      0.159708,
+      "i"
+    ],
+    [
+      0.176391,
+      "n"
+    ],
+    [
+      0.127944,
+      "k"
+    ],
+    [
+      0.127796,
+      "d"
+    ],
+    [
+      0.144144,
+      "b"
+    ],
+    [
+      0.431565,
+      "-"
+    ],
+    [
+      0.288624,
+      "o"
+    ],
+    [
+      0.175601,
+      "n"
+    ],
+    [
+      0.575793,
+      "-"
+    ],
+    [
+      0.400054,
+      "u"
+    ],
+    [
+      0.208333,
+      "b"
+    ],
+    [
+      0.143922,
+      "u"
+    ],
+    [
+      0.160448,
+      "n"
+    ],
+    [
+      0.111802,
+      "t"
+    ],
+    [
+      0.143943,
+      "u"
+    ],
+    [
+      0.35186,
+      "\r\n"
+    ],
+    [
+      0.659033,
+      "\u001b[?25l"
+    ],
+    [
+      0.005575,
+      "[\u001b[90m..................\u001b[0m] - normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.044873,
+      "[\u001b[90m..................\u001b[0m] | normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050355,
+      "[\u001b[90m..................\u001b[0m] | normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050133,
+      "[\u001b[90m..................\u001b[0m] | normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050765,
+      "[\u001b[90m..................\u001b[0m] | normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.052772,
+      "[\u001b[90m..................\u001b[0m] | normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050824,
+      "[\u001b[90m..................\u001b[0m] / normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.049834,
+      "[\u001b[90m..................\u001b[0m] / normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.049276,
+      "[\u001b[90m..................\u001b[0m] / normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.0606,
+      "[\u001b[90m..................\u001b[0m] \\ normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.072867,
+      "[\u001b[90m..................\u001b[0m] \\ normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.051554,
+      "[\u001b[90m..................\u001b[0m] \\ normalizeTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadCurrentTree\u001b[K\r"
+    ],
+    [
+      0.050913,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ loadRequestedDeps: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadAllDepsIntoIdealTree\u001b[K\r"
+    ],
+    [
+      0.050393,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.050169,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.049026,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.050617,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.050246,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.051179,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.049744,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-plugin-fs\u001b[K\r"
+    ],
+    [
+      0.051003,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo-plugin-apt/0.3.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.062288,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo-plugin-apt/0.3.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.053911,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.048774,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049839,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050529,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.052636,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.051292,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.04843,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/async/2.0.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050079,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-result\u001b[K\r"
+    ],
+    [
+      0.051403,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-result\u001b[K\r"
+    ],
+    [
+      0.050161,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-result\u001b[K\r"
+    ],
+    [
+      0.04973,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/justo-result\u001b[K\r"
+    ],
+    [
+      0.051047,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo-loader/0.2.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050634,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/justo-loader/0.2.1/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049987,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/ansi-escapes\u001b[K\r"
+    ],
+    [
+      0.049171,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/ansi-escapes\u001b[K\r"
+    ],
+    [
+      0.05083,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/ansi-escapes/1.4.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049649,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/ansi-escapes/1.4.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049528,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/ansi-escapes/1.4.0/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050915,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/exit-hook\u001b[K\r"
+    ],
+    [
+      0.054508,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/exit-hook\u001b[K\r"
+    ],
+    [
+      0.048823,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/fs-extra\u001b[K\r"
+    ],
+    [
+      0.05223,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/fs-extra\u001b[K\r"
+    ],
+    [
+      0.049911,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/fs-extra\u001b[K\r"
+    ],
+    [
+      0.051549,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/jsonfile\u001b[K\r"
+    ],
+    [
+      0.050811,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/jsonfile\u001b[K\r"
+    ],
+    [
+      0.059131,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/jsonfile\u001b[K\r"
+    ],
+    [
+      0.050076,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/argparse\u001b[K\r"
+    ],
+    [
+      0.049996,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/argparse\u001b[K\r"
+    ],
+    [
+      0.049329,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/argparse\u001b[K\r"
+    ],
+    [
+      0.050435,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/argparse/1.0.9/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.055773,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/argparse/1.0.9/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049993,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/sprintf-js/1.0.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.049193,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/sprintf-js/1.0.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050111,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/sprintf-js/1.0.3/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.052524,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/bindings\u001b[K\r"
+    ],
+    [
+      0.05157,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/bindings\u001b[K\r"
+    ],
+    [
+      0.052496,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] / fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/bindings\u001b[K\r"
+    ],
+    [
+      0.052555,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/colors\u001b[K\r"
+    ],
+    [
+      0.051108,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] - fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/colors\u001b[K\r"
+    ],
+    [
+      0.050163,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] | fetchMetadata: \u001b[7msill\u001b[0m \u001b[35mmapToRegistry\u001b[0m uri https://registry.npmjs.org/colors\u001b[K\r"
+    ],
+    [
+      0.050074,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/colors/1.1.2/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.050222,
+      "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ fetchMetadata: \u001b[34;40mverb\u001b[0m \u001b[35mafterAdd\u001b[0m /home/me/.npm/cache/colors/1.1.2/package/package.json written\u001b[K\r"
+    ],
+    [
+      0.081323,
+      "[\u001b[7m          \u001b[27m\u001b[90m........\u001b[0m] / diffTrees: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m generateActionsToTake\u001b[K\r"
+    ],
+    [
+      0.049266,
+      "[\u001b[7m             \u001b[27m\u001b[90m.....\u001b[0m] - extract:install-rethinkdb-on-ubuntu: \u001b[7msill\u001b[0m \u001b[35mdoParallel\u001b[0m extract 1\u001b[K\r"
+    ],
+    [
+      0.050761,
+      "[\u001b[7m               \u001b[27m\u001b[90m...\u001b[0m] - finalize:install-rethinkdb-on-ubuntu: \u001b[7msill\u001b[0m \u001b[35mdoSerial\u001b[0m finalize 1\u001b[K\r"
+    ],
+    [
+      0.034683,
+      "\r\u001b[K\u001b[?25h"
+    ],
+    [
+      0.001114,
+      "/home/me/.npm/lib\r\n└── \u001b[40m\u001b[33minstall-rethinkdb-on-ubuntu@0.1.0\u001b[39m\u001b[49m \r\n\r\n"
+    ],
+    [
+      0.010778,
+      "\u001b]0;me@boxer: ~\u0007me@boxer:~$ "
+    ],
+    [
+      1.915126,
+      "s"
+    ],
+    [
+      0.27177,
+      "u"
+    ],
+    [
+      0.159674,
+      "d"
+    ],
+    [
+      0.144186,
+      "o"
+    ],
+    [
+      0.319927,
+      " "
+    ],
+    [
+      0.319968,
+      "-"
+    ],
+    [
+      0.336077,
+      "E"
+    ],
+    [
+      0.447693,
+      " "
+    ],
+    [
+      0.512227,
+      "j"
+    ],
+    [
+      0.191394,
+      "u"
+    ],
+    [
+      0.159784,
+      "s"
+    ],
+    [
+      0.176764,
+      "t"
+    ],
+    [
+      0.176214,
+      "o"
+    ],
+    [
+      0.94353,
+      " "
+    ],
+    [
+      0.320076,
+      "-"
+    ],
+    [
+      0.256172,
+      "m"
+    ],
+    [
+      0.192033,
+      " "
+    ],
+    [
+      0.224003,
+      "i"
+    ],
+    [
+      0.128122,
+      "n"
+    ],
+    [
+      0.127719,
+      "s"
+    ],
+    [
+      0.112064,
+      "t"
+    ],
+    [
+      0.112038,
+      "a"
+    ],
+    [
+      0.384078,
+      "l"
+    ],
+    [
+      0.127929,
+      "l"
+    ],
+    [
+      1.328304,
+      "-"
+    ],
+    [
+      0.431816,
+      "r"
+    ],
+    [
+      0.14388,
+      "e"
+    ],
+    [
+      0.14399,
+      "t"
+    ],
+    [
+      0.112345,
+      "h"
+    ],
+    [
+      0.159641,
+      "i"
+    ],
+    [
+      0.160133,
+      "n"
+    ],
+    [
+      0.112177,
+      "k"
+    ],
+    [
+      0.0955,
+      "d"
+    ],
+    [
+      0.160279,
+      "b"
+    ],
+    [
+      0.415511,
+      "-"
+    ],
+    [
+      0.320369,
+      "o"
+    ],
+    [
+      0.240078,
+      "n"
+    ],
+    [
+      0.304071,
+      "-"
+    ],
+    [
+      0.351866,
+      "u"
+    ],
+    [
+      0.224016,
+      "b"
+    ],
+    [
+      0.143987,
+      "u"
+    ],
+    [
+      0.176037,
+      "n"
+    ],
+    [
+      0.159902,
+      "t"
+    ],
+    [
+      0.127923,
+      "u"
+    ],
+    [
+      1.839986,
+      "\r\n"
+    ],
+    [
+      0.008346,
+      "[sudo] password for me: "
+    ],
+    [
+      3.207599,
+      "\r\n"
+    ],
+    [
+      0.424734,
+      "\u001b[?25l"
+    ],
+    [
+      0.000879,
+      "  \r\n  \u001b[33mdefault\u001b[39m\r\n"
+    ],
+    [
+      0.000213,
+      "\u001b[?25h"
+    ],
+    [
+      0.001388,
+      "\u001b[?25l    \u001b[36mdefault\u001b[39m\r\n"
+    ],
+    [
+      0.000189,
+      "\u001b[?25h"
+    ],
+    [
+      0.00076,
+      "\u001b[?25l      \u001b[36minstall\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.008657,
+      "\u001b[?25h"
+    ],
+    [
+      3.2e-05,
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether RethinkDB installed\u001b[39m\r\n"
+    ],
+    [
+      2.135001,
+      "\u001b[?25l"
+    ],
+    [
+      2.7e-05,
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether RethinkDB installed\u001b[39m \u001b[90m(2134 ms)\u001b[39m\r\n"
+    ],
+    [
+      8.8e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.00054,
+      "\u001b[?25h\u001b[?25l"
+    ],
+    [
+      2.8e-05,
+      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether wget installed\u001b[39m\r\n"
+    ],
+    [
+      0.416686,
+      "\u001b[?25l"
+    ],
+    [
+      2.7e-05,
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether wget installed\u001b[39m \u001b[90m(409 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.003399,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether /etc/apt/sources.list.d/rethinkdb.list exists\u001b[39m\r\n"
+    ],
+    [
+      0.000989,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether /etc/apt/sources.list.d/rethinkdb.list exists\u001b[39m \u001b[90m(1 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.00031,
+      "\u001b[?25h\u001b[?25l"
+    ],
+    [
+      6.4e-05,
+      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mCreate /etc/apt/sources.list.d/rethinkdb.list\u001b[39m\r\n"
+    ],
+    [
+      0.012324,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCreate /etc/apt/sources.list.d/rethinkdb.list\u001b[39m \u001b[90m(12 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.000184,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mAdd APT key\u001b[39m\r\n"
+    ],
+    [
+      4.848622,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mAdd APT key\u001b[39m \u001b[90m(4848 ms)\u001b[39m\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.001095,
+      "\u001b[?25h"
+    ],
+    [
+      2.1e-05,
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mUpdate APT index\u001b[39m\r\n"
+    ],
+    [
+      16.836672,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mUpdate APT index\u001b[39m \u001b[90m(16836 ms)\u001b[39m\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.001935,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether rethinkdb package available\u001b[39m\r\n"
+    ],
+    [
+      0.381768,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether rethinkdb package available\u001b[39m \u001b[90m(381 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.001201,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mInstall RethinkDB\u001b[39m\r\n"
+    ],
+    [
+      28.674661,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mInstall RethinkDB\u001b[39m \u001b[90m(28675 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.000195,
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck rethinkdb command\u001b[39m\r\n"
+    ],
+    [
+      0.030808,
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck rethinkdb command\u001b[39m \u001b[90m(31 ms)\u001b[39m\r\n\u001b[?25h"
+    ],
+    [
+      0.001714,
+      "\u001b[?25l\r\n\u001b[?25h"
+    ],
+    [
+      0.000558,
+      "\u001b[?25l  \u001b[32mOK\u001b[39m 9 | \u001b[31mFailed\u001b[39m 0 | \u001b[37mIgnored\u001b[39m 0 | Total 9\r\n\u001b[?25h\u001b[?25l\r\n"
+    ],
+    [
+      2.9e-05,
+      "\u001b[?25h"
+    ],
+    [
+      0.001197,
+      "\u001b[?25h"
+    ],
+    [
+      0.003832,
+      "\u001b]0;me@boxer: ~\u0007me@boxer:~$ "
+    ]
+  ],
+  "title": "Install RethinkDB on Ubuntu with Justo.js",
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm"
+  },
+  "duration": 88.699934
+}

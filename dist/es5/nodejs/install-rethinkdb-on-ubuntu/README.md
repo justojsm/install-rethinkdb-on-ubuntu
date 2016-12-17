@@ -14,3 +14,5 @@
 $ npm install -g install-rethinkdb-on-ubuntu
 $ sudo -E justo -m install-rethinkdb-on-ubuntu
 ```
+
+[![asciicast](https://asciinema.org/a/2b78xbmnh108n6wwqqumxyyjy.png)](https://asciinema.org/a/2b78xbmnh108n6wwqqumxyyjy)
